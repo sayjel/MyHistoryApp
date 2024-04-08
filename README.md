@@ -77,10 +77,10 @@ The ongoing evolution and refinement of the History app will continue to leverag
 
 Link to YouTube video-https://youtu.be/fy2iVf0Gd0A 
 
-Android Developers. (n.d.). Android Developers. Retrieved from https://developer.android.com/
-GitHub Documentation. (n.d.). GitHub Documentation. Retrieved from https://docs.github.com/
-Kotlin Programming Language. (n.d.). Kotlin Programming Language. Retrieved from https://kotlinlang.org/
-Material Design. (n.d.). Material Design. Retrieved from https://material.io/design
-Android Studio Documentation. (n.d.). Android Studio Documentation. Retrieved from https://developer.android.com/studio
+Android Developers. (2016). Android Developers. Retrieved from https://developer.android.com/
+GitHub Documentation. (2020). GitHub Documentation. Retrieved from https://docs.github.com/
+Kotlin Programming Language. (2018). Kotlin Programming Language. Retrieved from https://kotlinlang.org/
+Material Design. (2024). Material Design. Retrieved from https://material.io/design
+Android Studio Documentation. (2023). Android Studio Documentation. Retrieved from https://developer.android.com/studio
 The IIE. 2024. Introduction to mobile application development. The Independent Institute of Education. Unpublished.
 
